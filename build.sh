@@ -42,7 +42,6 @@ cp wfb_tx $PACKAGE_DIR/usr/local/bin/
 cp wfb_rx $PACKAGE_DIR/usr/local/bin/
 cp wfb_keygen $PACKAGE_DIR/usr/local/bin/
 
-cloudsmith token
 package
 
 post_processing
